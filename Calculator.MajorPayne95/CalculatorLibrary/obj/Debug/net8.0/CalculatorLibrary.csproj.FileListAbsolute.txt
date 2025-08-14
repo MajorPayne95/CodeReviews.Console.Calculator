@@ -1,0 +1,13 @@
+/workspaces/Calculator_CSharp/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.deps.json
+/workspaces/Calculator_CSharp/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.dll
+/workspaces/Calculator_CSharp/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.pdb
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfo.cs
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.sourcelink.json
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.dll
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/refint/CalculatorLibrary.dll
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.pdb
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/ref/CalculatorLibrary.dll
+/workspaces/Calculator_CSharp/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.AssemblyReference.cache
